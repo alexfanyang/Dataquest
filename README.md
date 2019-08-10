@@ -1,2 +1,2 @@
-# Dataquest
-Projects from Dataquest
+# Profitable App Profiles for the App Store and Google Play Markets
+Projects on Profitable App Profiles for the App Store and Google Play Markets
